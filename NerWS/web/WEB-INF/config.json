@@ -1,0 +1,6 @@
+{
+
+    "name": "Stanford NER Web Service",
+    "dictionary": "red",
+    "registerUrl": "www.redalert.com"
+}

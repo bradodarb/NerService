@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NerService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="NerService-1.0.war">
+      <element id="artifact" artifact-name="NerService:war exploded" />
+    </root>
+  </artifact>
+</component>

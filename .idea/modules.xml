@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NerAMQP/NerAMQP.iml" filepath="$PROJECT_DIR$/NerAMQP/NerAMQP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NerCore/NerCore.iml" filepath="$PROJECT_DIR$/NerCore/NerCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NerService.iml" filepath="$PROJECT_DIR$/NerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NerWS/NerWS.iml" filepath="$PROJECT_DIR$/NerWS/NerWS.iml" />
+    </modules>
+  </component>
+</project>
+

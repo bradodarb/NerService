@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NerWS:war">
+    <output-path>$PROJECT_DIR$/NerWS/target</output-path>
+    <root id="archive" name="NerWS-1.0.war">
+      <element id="artifact" artifact-name="NerWS:war exploded" />
+    </root>
+  </artifact>
+</component>

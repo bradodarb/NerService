@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NerHttp:war">
+    <output-path>$PROJECT_DIR$/NerHttp/target</output-path>
+    <root id="archive" name="NerHttp-1.0.war">
+      <element id="artifact" artifact-name="NerHttp:war exploded" />
+    </root>
+  </artifact>
+</component>
