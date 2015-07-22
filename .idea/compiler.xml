@@ -28,6 +28,11 @@
         <module name="NewAMQP" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="NerAMQP" target="1.5" />
+      <module name="NerCore" target="1.5" />
+      <module name="NerService" target="1.5" />
+      <module name="NerWS" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-
